@@ -1,0 +1,111 @@
+#top {
+    font-size: 35px;
+    font-weight: bold;
+    background-image: url(image0.jpg);
+    height: 300px;
+    color: grey;
+    font-family: Garamond;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+ header .header {
+    opacity: 1;
+    color: azure;
+    text-align: center;
+    text-shadow: 3px 3px black;
+   
+}
+
+
+header .nav {
+    opacity: 0.75;
+    height: 50px;
+    font-size: 25;
+    opacity: 1;
+    color: azure;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+   
+}
+
+.biography,
+.foods,
+.addiction {
+    background-image: url(jiddie.jpg);
+    height: 500px;
+    opacity: 0.5;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+.header-foods {
+    background-image: url(30-must-try-japanese-foods.jpg);
+    height: 50px;  
+    opacity: 0.75;
+    
+}
+
+#foods {
+    opacity: 1;
+    color: azure;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    
+}
+
+.header-addiction {
+        background-image: url(league-of-legends-banner-png-clipart.jpg);
+        height: 50px;  
+        opacity: 0.75;
+        opacity: 0.75;
+        
+    }
+    
+#addiction {
+        opacity: 1;
+        color: azure;
+        text-align: center;
+        text-shadow: 1px 1px black;
+    }
+
+.header-biography {
+        background-image: url(sakura001.webp);
+        background-size: cover;
+        height: 50px;  
+        opacity: 0.75;
+        opacity: 0.75;
+        
+    }
+    
+#biography {
+        opacity: 1;
+        color: azure;
+        text-align: center;
+        text-shadow: 1px 1px black;
+    }
+
+footer {
+    background-image: url(japan-travelling-banner-japanese-landmarks-landscape-traditional-skyscrapers-private-buildings-nature-architecture-78364460.jpg);
+    background-size: cover;
+    opacity: .75;
+}
+
+html {
+    background-color: rgba(128, 128, 128, 0.15);
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    width: 10em;
+}
+
+li {
+    display: inline-block;
+}
